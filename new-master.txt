@@ -7,3 +7,7 @@ jqkA
 my master new modify 1
 
 my master new modify 2
+
+master branch git cherry-pick 1
+master branch git cherry-pick 2
+master branch git cherry-pick 3
